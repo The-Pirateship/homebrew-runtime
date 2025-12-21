@@ -1,4 +1,4 @@
-class runtime < Formula
+class Runtime < Formula
   desc "Runtime - the awesome tool to spawn zellij tabs for your project"
   homepage "https://github.com/The-Pirateship/runtime"
   url "https://github.com/The-Pirateship/runtime/releases/download/v0.0.2/runtime_Darwin_arm64.tar.gz"
