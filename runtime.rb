@@ -1,8 +1,8 @@
 class Runtime < Formula
   desc "Runtime - the awesome tool to spawn zellij tabs for your project"
   homepage "https://github.com/The-Pirateship/runtime"
-  url "https://github.com/The-Pirateship/runtime/releases/download/v0.0.5/runtime_Darwin_arm64.tar.gz"
-  sha256 "243492244125c23255db9a92f7ee249588d93546efe8fea90a8212819304eb9a"
+  url "https://github.com/The-Pirateship/runtime/releases/download/v0.0.6/runtime_Darwin_arm64.tar.gz"
+  sha256 "2fcfe193880f8f0c694a4de6c47146b54ad468f9468ccef06834c94f67cad5bb"
   license "MIT"
 
   # For Linux bottles (optional, can add later)
