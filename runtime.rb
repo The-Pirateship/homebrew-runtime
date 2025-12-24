@@ -9,6 +9,8 @@ class Runtime < Formula
   # url "https://github.com/yourusername/yourcli/releases/download/v0.1.0/YourCLI_Linux_x86_64.tar.gz"
   # sha256 "PUT_SHA256_HERE"
 
+  depends_on "zellij"
+
   def install
     bin.install "runtime"
     bin.install_symlink "runtime" => "rt"
